@@ -1,0 +1,15 @@
+2023-10-18 21:33:33.964  8410-8410  MainActivity            edu.uw.ischool.mbacarro.activityspy  I  onCreate event fired
+2023-10-18 21:37:54.540  8532-8532  MainActivity            edu.uw.ischool.mbacarro.activityspy  I  onCreate event fired
+2023-10-18 21:37:54.561  8532-8532  MainActivity            edu.uw.ischool.mbacarro.activityspy  I  onStart event fired
+2023-10-18 21:37:54.563  8532-8532  MainActivity            edu.uw.ischool.mbacarro.activityspy  I  onResume event fired
+2023-10-18 21:38:05.678  8532-8532  MainActivity            edu.uw.ischool.mbacarro.activityspy  I  onPause event fired
+2023-10-18 21:38:09.190  8532-8532  MainActivity            edu.uw.ischool.mbacarro.activityspy  I  onStop event fired
+2023-10-18 21:38:09.191  8532-8532  MainActivity            edu.uw.ischool.mbacarro.activityspy  I  onDestroy event fired
+2023-10-18 21:38:09.191  8532-8532  MainActivity            edu.uw.ischool.mbacarro.activityspy  E  We're going down, Captain!
+2023-10-18 21:38:12.574  8532-8532  MainActivity            edu.uw.ischool.mbacarro.activityspy  I  onCreate event fired
+2023-10-18 21:38:12.576  8532-8532  MainActivity            edu.uw.ischool.mbacarro.activityspy  I  onStart event fired
+2023-10-18 21:38:12.577  8532-8532  MainActivity            edu.uw.ischool.mbacarro.activityspy  I  onResume event fired
+2023-10-18 21:38:24.164  8532-8532  MainActivity            edu.uw.ischool.mbacarro.activityspy  I  onPause event fired
+2023-10-18 21:38:24.168  8532-8532  MainActivity            edu.uw.ischool.mbacarro.activityspy  I  onStop event fired
+2023-10-18 21:38:30.600  8532-8532  MainActivity            edu.uw.ischool.mbacarro.activityspy  I  onStart event fired
+2023-10-18 21:38:30.600  8532-8532  MainActivity            edu.uw.ischool.mbacarro.activityspy  I  onResume event fired
